@@ -2,7 +2,7 @@
 ![Design and development](https://github.com/Nukealbert/Nukealbert/blob/main/bnr.jpg)
 
 
-## Kundan Kumar
+# Kundan Kumar
 I'm Kundan Kumar from India, and I am a Web developer, Content Writer, SEO, competitive programming. I really enjoy learning languages and frameworks like React, Bootstrap, Python, as well as work in Wordpress. I also enjoy doing Photoshop and logo design in general.
 
 
