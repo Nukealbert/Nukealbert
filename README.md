@@ -7,12 +7,12 @@ I'm Kundan Kumar from India, and I am a Web developer, Content Writer, SEO, comp
 
 
 ## Skills and Experience
-*⏺ HTML/CSS/SASS
-*⏺ BOOTSTRAP 
-*⏺ PYTHON
-*⏺ CPP
-*⏺ SEO
-*⏺ PHOTOSHOP
+* ⏺ HTML/CSS/SASS
+* ⏺ BOOTSTRAP 
+* ⏺ PYTHON
+* ⏺ CPP
+* ⏺ SEO
+* ⏺ PHOTOSHOP
 
 
 
