@@ -1,4 +1,4 @@
-### Hi there 👋, Kundan Kumae
+### Hi there 👋, I'm Kundan Kumar
 #### Design and development
 ![Design and development](https://github.com/Nukealbert/Nukealbert/blob/main/bnr.jpg)
 
