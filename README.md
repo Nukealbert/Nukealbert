@@ -3,7 +3,7 @@
 
 
 # Kundan Kumar
-I'm Kundan Kumar from India, and I am a Web developer, Content Writer, SEO, competitive programming. I really enjoy learning languages and frameworks like React, Bootstrap, Python, as well as work in Wordpress. I also enjoy doing Photoshop and logo design in general.
+I'm Kundan Kumar from India, and I am a Web developer, competitive programming. I really enjoy learning languages and frameworks like React, Bootstrap, Python, as well as work in Wordpress. I also enjoy doing Photoshop and logo design in general.
 
 
 ## Skills and Experience
