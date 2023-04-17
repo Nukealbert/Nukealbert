@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Kundan Kumar
-![Design and development](https://github.com/Nukealbert/Nukealbert/blob/main/full-stack-developer.jpg)
+![Design and development](https://github.com/Nukealbert/Nukealbert/blob/main/bnr1.jpg)
 
 
 # Kundan Kumar
