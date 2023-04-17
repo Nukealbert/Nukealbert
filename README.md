@@ -7,11 +7,11 @@ I'm Kundan Kumar from India, and I am a Full Stack. I really enjoy learning lang
 
 
 ## Skills and Experience
+* ⏺ MERN(MONGODB, EXPRESS, REACT, NODE)
+* ⏺ VUEJS, VUEX, VUETIFY, 
 * ⏺ HTML/CSS/SASS
 * ⏺ BOOTSTRAP 
 * ⏺ PYTHON
-* ⏺ CPP
-* ⏺ SEO
 * ⏺ PHOTOSHOP
 
 
