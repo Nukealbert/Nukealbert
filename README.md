@@ -1,30 +1,35 @@
-### Hi there 👋, I'm Kundan Kumar
 ![Design and development](https://github.com/Nukealbert/Nukealbert/blob/main/bnr1.jpg)
 
-
 # Kundan Kumar
-Welcome to my Github profile! As a full-stack developer, I have experience working with a range of technologies, including React, VueJS, NodeJS, and MongoDB.
+### Full-Stack Engineer | AI & Agentic Systems Enthusiast
 
-Throughout my career, I've had the opportunity to work on a variety of projects, from developing single-page applications using React and VueJS to building RESTful APIs with NodeJS and MongoDB.
+Passionate Full-Stack Developer with over 4 years of professional experience building scalable, high-performance web applications. I specialize in the modern JavaScript ecosystem (MERN & Vue) and am currently focused on bridging the gap between traditional software engineering and Generative AI.
 
-My experience in working with these technologies has given me a deep understanding of how to create scalable, maintainable, and performant applications. I'm also familiar with modern development practices such as agile methodologies, test-driven development, and continuous integration/continuous deployment.
+Throughout my career, I have transitioned from building responsive SPAs and robust RESTful APIs to architecting intelligent, agent-driven systems. I am a firm believer in clean code, test-driven development (TDD), and the efficiency of CI/CD pipelines.
 
-In addition to my technical skills, I'm a strong communicator and collaborator. I enjoy working in teams, and I'm always eager to learn new technologies and approaches to software development.
+---
 
-Please feel free to explore my Github repositories, where you can find examples of my work and the projects that I have contributed to. If you have any questions or would like to discuss potential collaboration opportunities, please don't hesitate to reach out!
+### 🛠 Technical Ecosystem
 
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React, Vue.js (Vuex/Vuetify), HTML5, CSS3, SASS, Bootstrap |
+| **Backend** | Node.js, Express, Python |
+| **Database** | MongoDB, PostgreSQL |
+| **Design** | Adobe Photoshop |
+| **Interests** | Generative AI, Agentic Workflows, LLM Orchestration |
 
-## Skills and Experience
-* ⏺ MERN(MONGODB, EXPRESS, REACT, NODE)
-* ⏺ VUEJS, VUEX, VUETIFY, 
-* ⏺ HTML/CSS/SASS
-* ⏺ BOOTSTRAP 
-* ⏺ PYTHON
-* ⏺ PHOTOSHOP
+---
 
+### 🚀 Key Strengths
+* **Scalable Architecture:** Experienced in creating maintainable and performant applications for the IT sector.
+* **Agile Mindset:** Deeply familiar with Scrum methodologies and collaborative team environments.
+* **Continuous Learning:** Currently documenting my journey through AI/ML challenges and building "40 products in 40 weeks."
 
+---
 
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developerkundankumar/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nukealbert)
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nukealbert)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kundan-kumar-61484317a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_k_rathore___/)  
-
+---
